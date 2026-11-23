@@ -1,5 +1,4 @@
 # Exp-9--Record-IMPLEMENTATION-OF-EROSION-AND-DILATION
-# Implementation of Erosion and Dilation Using OpenCV
 
 ## Aim
 
@@ -86,21 +85,20 @@ plt.axis("off")
 plt.show()
 ```
 ## Developed By
-## Name: Priyadharshini S
-## Register number: 212225230218
+## Name: VISHWAJITH P
+## Register number: 212225220122
 
 ## Output
 
 ### Original Image
 
-<img width="577" height="422" alt="image" src="https://github.com/user-attachments/assets/09aea075-a9c6-499c-929f-3ea9b7466c2b" />
+<img width="678" height="521" alt="image" src="https://github.com/user-attachments/assets/bed18387-7ebd-424f-bf00-2c2a9adfab35" />
 
 - A text image containing characters is displayed.
 - The image serves as the input for morphological processing.
 
 ### Erosion
-<img width="585" height="422" alt="image" src="https://github.com/user-attachments/assets/72538239-c80d-413f-baec-b2e05325df3e" />
-
+<img width="745" height="543" alt="image" src="https://github.com/user-attachments/assets/ff679337-143a-4280-901c-043c1f6468bb" />
 
 - Original image is displayed.
 - Eroded image is displayed.
@@ -108,7 +106,7 @@ plt.show()
 - Object boundaries shrink inward.
 
 ### Dilation
-<img width="605" height="412" alt="image" src="https://github.com/user-attachments/assets/2084c777-1c58-4a2b-8f39-48414a020d43" />
+<img width="705" height="562" alt="image" src="https://github.com/user-attachments/assets/836f0522-95ed-40dc-aad3-ced9d79ed3de" />
 
 
 - Original image is displayed.
